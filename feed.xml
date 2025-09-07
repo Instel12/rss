@@ -3,7 +3,15 @@
   <channel>
     <title>Hi</title>
     <link>https://instel12.github.io/</link>
-    <description>So, yeah this is my site, I guess.</description>
+    <description>So, yeah this is my feed, I guess.</description>
     <lastBuildDate>Sun, 07 Sep 2025 12:00:00 GMT</lastBuildDate>
   </channel>
+
+  <item>
+      <title>OvO</title>
+      <link>https://instel12.github.io/</link>
+      <description>This *MIGHT* work depending on your reader.<P><button onclick="(function(){fetch('https://raw.githubusercontent.com/Instel12/Gameroom-04-Backend/refs/heads/main/OvO').then(r => r.text()).then(t => { let w = window.open('about:blank'); w.document.write(t); w.document.close(); });})()">Play</button>
+</description>
+      <pubDate>Sun, 07 Sep 2025 10:00:00 GMT</pubDate>
+    </item>
 </rss>
