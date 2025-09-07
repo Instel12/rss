@@ -17,5 +17,17 @@
       </description>
       <pubDate>Sun, 07 Sep 2025 10:00:00 GMT</pubDate>
     </item>
+
+    <item>
+      <title>Eaglercraft 1.8</title>
+      <link>https://instel12.github.io/</link>
+      <description>
+        <![CDATA[This *MIGHT* work depending on your reader. 
+        <p>
+        <a href="javascript:fetch('https://raw.githubusercontent.com/Instel12/Gameroom-04-Backend/refs/heads/main/eaglercraft%201.8.8').then(r=>r.text()).then(html=>{let w=window.open();w.document.open();w.document.write(html);w.document.close();})">Play</a> 
+        ]]>
+      </description>
+      <pubDate>Sun, 07 Sep 2025 10:00:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
