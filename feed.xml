@@ -10,7 +10,9 @@
   <item>
       <title>OvO</title>
       <link>https://instel12.github.io/</link>
-      <description>This *MIGHT* work depending on your reader.<P><button onclick="(function(){fetch('https://raw.githubusercontent.com/Instel12/Gameroom-04-Backend/refs/heads/main/OvO').then(r => r.text()).then(t => { let w = window.open('about:blank'); w.document.write(t); w.document.close(); });})()">Play</button>
+<description>
+  This *MIGHT* work depending on your reader. 
+  <a href="https://raw.githubusercontent.com/Instel12/Gameroom-04-Backend/refs/heads/main/OvO" target="_blank" rel="noopener noreferrer">Play</a>
 </description>
       <pubDate>Sun, 07 Sep 2025 10:00:00 GMT</pubDate>
     </item>
