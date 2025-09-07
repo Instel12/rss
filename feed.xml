@@ -5,15 +5,17 @@
     <link>https://instel12.github.io/</link>
     <description>So, yeah this is my feed, I guess.</description>
     <lastBuildDate>Sun, 07 Sep 2025 12:00:00 GMT</lastBuildDate>
-  </channel>
 
-  <item>
+    <item>
       <title>OvO</title>
       <link>https://instel12.github.io/</link>
-<description>
-  This *MIGHT* work depending on your reader. 
-  <a href="https://raw.githubusercontent.com/Instel12/Gameroom-04-Backend/refs/heads/main/OvO" target="_blank" rel="noopener noreferrer">Play</a>
-</description>
+      <description>
+        <![CDATA[This *MIGHT* work depending on your reader. 
+        <p>
+        <a href="https://raw.githubusercontent.com/Instel12/Gameroom-04-Backend/refs/heads/main/OvO" target="_blank" rel="noopener noreferrer">Play</a> 
+        ]]>
+      </description>
       <pubDate>Sun, 07 Sep 2025 10:00:00 GMT</pubDate>
     </item>
+  </channel>
 </rss>
