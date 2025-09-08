@@ -3,7 +3,16 @@
   <channel>
     <title>Hi</title>
     <link>https://instel12.github.io/</link>
-    <description>So, yeah this is my feed, I guess.</description>
+    <description>
+        <![CDATA[
+            So, yeah this is my feed, I guess.
+            <style>
+                body{
+                    background-color: red;
+                }
+            </style>
+        ]]>
+    </description>
     <lastBuildDate>Sun, 07 Sep 2025 12:00:00 GMT</lastBuildDate>
 
     <item>
@@ -13,18 +22,6 @@
         <![CDATA[This *MIGHT* work depending on your reader. 
         <p>
         <a href="javascript:fetch('https://raw.githubusercontent.com/Instel12/Gameroom-04-Backend/refs/heads/main/OvO').then(r=>r.text()).then(html=>{let w=window.open();w.document.open();w.document.write(html);w.document.close();})">Play</a> 
-        ]]>
-      </description>
-      <pubDate>Sun, 07 Sep 2025 10:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Eaglercraft 1.8</title>
-      <link>https://instel12.github.io/</link>
-      <description>
-        <![CDATA[This *MIGHT* work depending on your reader. 
-        <p>
-        <a href="javascript:fetch('https://raw.githubusercontent.com/Instel12/Gameroom-04-Backend/refs/heads/main/eaglercraft%201.8.8').then(r=>r.text()).then(html=>{let w=window.open();w.document.open();w.document.write(html);w.document.close();})">Play</a> 
         ]]>
       </description>
       <pubDate>Sun, 07 Sep 2025 10:00:00 GMT</pubDate>
